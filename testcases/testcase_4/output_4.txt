@@ -1,0 +1,29 @@
+Brute force:
+No solution
+
+Backtracking:
+G, G, T, 2, G, T, G, 1, G, G, G
+T, 3, T, G, G, 2, G, T, 3, T, G
+G, G, 2, G, G, T, G, 2, T, G, G
+2, G, T, 3, T, G, 2, G, G, 2, G
+T, T, G, T, 2, G, G, T, 3, T, G
+G, 3, G, G, G, 2, T, T, G, 2, G
+G, G, T, 1, G, G, T, 3, G, T, G
+3, T, G, G, 2, T, G, G, G, 3, G
+T, T, 3, G, G, T, 2, G, G, T, T
+G, 2, G, T, G, 3, G, G, 2, G, G
+G, G, G, G, T, G, T, G, G, T, G
+
+Pysat:
+T, T, G, 2, T, T, G, 1, T, T, G
+G, 3, T, G, G, 2, G, G, 3, G, G
+G, G, 2, T, G, G, G, 2, G, T, G
+2, G, G, 3, T, G, 2, T, T, 2, G
+T, T, T, G, 2, T, G, G, 3, G, G
+G, 3, G, G, G, 2, T, T, G, 2, G
+G, G, G, 1, G, G, G, 3, T, T, G
+3, T, T, G, 2, G, G, G, G, 3, G
+T, T, 3, G, T, T, 2, T, T, G, G
+G, 2, G, G, T, 3, G, G, 2, G, G
+G, G, G, G, G, G, G, G, G, G, G
+
